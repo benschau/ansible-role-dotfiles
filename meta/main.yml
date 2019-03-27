@@ -2,9 +2,10 @@
 dependencies: []
 
 galaxy_info:
-  author: geerlingguy
+  author: benschau (shamelessly stolen from geerlingguy)
+  role_name: dotfiles
   description: Dotfile installation for UNIX/Linux.
-  company: "Midwestern Mac, LLC"
+  company: "not Midwestern Mac, LLC"
   license: "license (BSD, MIT)"
   min_ansible_version: 2.2
   platforms:
